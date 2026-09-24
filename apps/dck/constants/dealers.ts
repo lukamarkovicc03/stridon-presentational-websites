@@ -203,12 +203,12 @@ export const DEALERS: Dealer[] = [
   {
     id: "fish-and-food",
     name: "Fish & Food",
-    address: "Patrijarha Vićentija Prodanova 13",
-    city: "Bačko Petrovo Selo",
-    phone: "021/803-456",
-    email: "strtisa@gmail.com",
+    address: "Glavna 65",
+    city: "Bečej",
+    phone: "062/207-952",
+    email: "veleprodajatisaplus@gmail.com",
     category: "dealer",
-    coordinates: { lat: 45.701757, lng: 20.0862719 },
+    coordinates: { lat: 45.6198748, lng: 20.0406751 },
   },
   {
     id: "zim-commerce",
